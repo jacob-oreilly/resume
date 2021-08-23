@@ -39,8 +39,8 @@ body {
 }
 
 .resume {
-    width: 820px;
-    height: 1160px;
+    width: 800px;
+    height: 1035px;
     display: flex;
     margin: auto;
 }
@@ -55,8 +55,7 @@ body {
 }
 
 .resume .title {
-    margin-bottom: 20px;
-    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 .resume .resume_left .bold {
@@ -149,7 +148,7 @@ body {
 }
 
 .resume .resume_right {
-    width: 540px;
+    width: 520px;
     background: #fff;
     padding: 25px;
     padding-top: 12px;
